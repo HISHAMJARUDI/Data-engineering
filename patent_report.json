@@ -1,0 +1,145 @@
+{
+    "total_patents_in_main_database": 50000,
+    "top_inventors": [
+        {
+            "name": "Kangguo Cheng",
+            "country": "US",
+            "total_patents": 56
+        },
+        {
+            "name": "Shunpei Yamazaki",
+            "country": "JP",
+            "total_patents": 52
+        },
+        {
+            "name": "Roderick A. Hyde",
+            "country": "US",
+            "total_patents": 32
+        },
+        {
+            "name": "Jason K. Resch",
+            "country": "US",
+            "total_patents": 28
+        },
+        {
+            "name": "Hanbyul Seo",
+            "country": "KR",
+            "total_patents": 26
+        },
+        {
+            "name": "Suckchel Yang",
+            "country": "KR",
+            "total_patents": 26
+        },
+        {
+            "name": "Alexander Reznicek",
+            "country": "US",
+            "total_patents": 24
+        },
+        {
+            "name": "Joonkui Ahn",
+            "country": "KR",
+            "total_patents": 24
+        },
+        {
+            "name": "Aed M. Dudar",
+            "country": "US",
+            "total_patents": 23
+        },
+        {
+            "name": "Devendra K. Sadana",
+            "country": "US",
+            "total_patents": 23
+        }
+    ],
+    "top_companies": [
+        {
+            "name": "International Business Machines Corporation",
+            "total_patents": 1463
+        },
+        {
+            "name": "SAMSUNG DISPLAY CO., LTD.",
+            "total_patents": 1306
+        },
+        {
+            "name": "CANON KABUSHIKI KAISHA",
+            "total_patents": 497
+        },
+        {
+            "name": "Intel Corporation",
+            "total_patents": 416
+        },
+        {
+            "name": "Microsoft Technology Licensing, LLC",
+            "total_patents": 380
+        },
+        {
+            "name": "LG ELECTRONICS INC.",
+            "total_patents": 374
+        },
+        {
+            "name": "FORD GLOBAL TECHNOLOGIES, LLC",
+            "total_patents": 363
+        },
+        {
+            "name": "Taiwan Semiconductor Manufacturing Company, Ltd.",
+            "total_patents": 354
+        },
+        {
+            "name": "QUALCOMM Incorporated",
+            "total_patents": 349
+        },
+        {
+            "name": "Apple Inc.",
+            "total_patents": 348
+        }
+    ],
+    "top_countries": [
+        {
+            "country": "US",
+            "total_patents": 24806
+        },
+        {
+            "country": "JP",
+            "total_patents": 8047
+        },
+        {
+            "country": "KR",
+            "total_patents": 3348
+        },
+        {
+            "country": "DE",
+            "total_patents": 2985
+        },
+        {
+            "country": "CN",
+            "total_patents": 2873
+        },
+        {
+            "country": "TW",
+            "total_patents": 1741
+        },
+        {
+            "country": "GB",
+            "total_patents": 1479
+        },
+        {
+            "country": "CA",
+            "total_patents": 1325
+        },
+        {
+            "country": "FR",
+            "total_patents": 1284
+        },
+        {
+            "country": "IN",
+            "total_patents": 962
+        }
+    ],
+    "yearly_trends_summary": {
+        "first_year": 1976,
+        "last_year": 2025,
+        "highest_year": 2019,
+        "highest_year_patents": 392618
+    }
+}
